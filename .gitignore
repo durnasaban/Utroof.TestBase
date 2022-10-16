@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Utroof/.vs/Utroof/v17
+/Utroof/test/Utroof.Core.Test/obj
+/Utroof/test/Utroof.Core.Test/bin/Debug/net6.0
+/Utroof/src/Utroof.Core/obj
+/Utroof/src/Utroof.Core/bin/Debug/net6.0
